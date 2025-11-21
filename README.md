@@ -484,16 +484,16 @@
     let factIndex     = -1;
 
     const facts = [
-      "1. 45% of people never return to their sport after ACL injury, but he actually came back.",
+      "1. 45% of people never return to their sport after ACL injury, but he actually came back,Now Playing football again.",
       "2. No revenge. He likes the person he became because of his past experiences.",
       "3. Nowadays he doesn’t care about small things. He is simply enjoying his own life.",
-      "4. He plays LW and LB. He likes more ‘halalball’ play style. Favourite players: Messi, Pedri, Gavi, Fermín, Yamal, Szczęsny, Balde, Cubarsí, Kounde, Eric, Frenkie de Jong, Lewandowski, Raphinha, Dayal, Neymar, Dani Alves, Julián Álvarez and more. Favourite clubs: Barcelona, PSG, Man City, Inter Miami – basically where Messi played. Chutiya Tirth never tells this himself.",
+      "4. He plays LW and LB. He likes more ‘halalball’ play style. Favourite players: Messi, Pedri, Gavi, Fermín, Yamal, Szczęsny, Balde, Cubarsí, Kounde, Eric, Frenkie de Jong, Lewandowski, Raphinha, Dayal, Neymar, Dani Alves, Julián Álvarez and more. Favourite clubs: Barcelona, PSG, Man City, Inter Miami – basically where Messi played.I Never Seen Chutiya Like Tirth.never tells this himself.",
       "5. If there is an award for doing bakchodi on every topic, it will go to him directly."
     ];
 
     const finalSecretText =
-      "You are still reading? I never saw a bigger idiot than me. Any details about me from 1–3 may be wrong, " +
-      "but one of 4 or 5 is 100% real. Understanding Tirth is like trying to find a dinosaur.";
+      "You are still reading? I never saw a bigger idiot than me.from 2–3 may be wrong, " +
+      "but one of 1,4 And 5 is 100% real. Understanding Tirth is like trying to find a His Ankle Annd ACL Muscle.";
 
     // ---------- PAGE SWITCH ----------
     function goTo(n) {
@@ -700,7 +700,7 @@
       if (isNaN(n) || n < 1) n = 1;
 
       const msg = `Say sorry ${n} times to me.`;
-      const url = "https://wa.me/+91701664774?text=" + encodeURIComponent(msg);
+      const url = "https://wa.me/qr/74W2FDSGYRKSD1?text=" + encodeURIComponent(msg);
       window.location.href = url;
     }
   </script>
